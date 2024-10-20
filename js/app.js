@@ -1,6 +1,6 @@
 let obj = {
-    name: 'alex', 
-    password: 'aress123'
+    name: 'kiberOne  ', 
+    password: '123 123'
 };
 console.log(obj.name);
 console.log(obj.password);
